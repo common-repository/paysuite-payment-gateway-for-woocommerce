@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paysuite Payment Gateway for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-21 09:37+0000\n"
+"PO-Revision-Date: 2023-12-21 10:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português (AO90)\n"
+"Language: pt_PT_ao90\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: paysuite-payment-gateway\n"
+"X-Loco-Fallback: pt_PT\n"
+"X-Loco-Template: languages/paysuite-payment-gateway-pt_PT.po\n"
+"X-Loco-Template-Mode: PO"
+
+#: paysuite-payment-gateway.php:111
+msgid "<br/> TEST MODE ENABLED."
+msgstr "<br/> MODO DE TESTE ACTIVO"
+
+#: paysuite-payment-gateway.php:44
+msgid "Accept Mpesa and Emola Payments for WooCommerce"
+msgstr "Aceite pagamentos por Mpesa e Emola no Woocommerce"
+
+#: paysuite-payment-gateway.php:159
+msgid "Awaiting for payment"
+msgstr "A aguardar pelo pelo pagamento"
+
+#: paysuite-payment-gateway.php:123
+msgid "Currency not supported!"
+msgstr "Moeda não suportada"
+
+#: paysuite-payment-gateway.php:87
+msgid "Customer Message"
+msgstr "Mensagem personalizada"
+
+#: paysuite-payment-gateway.php:76
+msgid "Enable PaySuite payment gateway"
+msgstr "Activar  Paysuite"
+
+#: paysuite-payment-gateway.php:99
+msgid "Enable Test Mode"
+msgstr "Activar modo de teste"
+
+#: paysuite-payment-gateway.php:74
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#. Author URI of the plugin
+msgid "http://paysuite.co.mz"
+msgstr "http://paysuite.co.mz"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/paysuite-payment-gateway-for-woocommerce/"
+msgstr ""
+"https://wordpress.org/plugins/paysuite-payment-gateway-for-woocommerce/"
+
+#: paysuite-payment-gateway.php:89
+msgid "Pay Via PaySuite"
+msgstr "Pagar pelo Paysuite"
+
+#: paysuite-payment-gateway.php:165
+msgid "Payment error:"
+msgstr "Erro no pagamento"
+
+#. Author of the plugin
+#| msgid "admin <suporte@paysuite.co.mz>"
+msgid "Paysuite <suporte@paysuite.co.mz>"
+msgstr "Paysuite <suporte@paysuite.co.mz>"
+
+#: paysuite-payment-gateway.php:43 paysuite-payment-gateway.php:83
+msgid "PaySuite for WooCommerce"
+msgstr "Paysuite para WooCommerce"
+
+#. Name of the plugin
+msgid "Paysuite Payment Gateway for WooCommerce"
+msgstr "Gateway de pagamento Paysuite para WooCommerce"
+
+#. Description of the plugin
+msgid "Receive payments directly to your store through the M-Pesa and Emola, ."
+msgstr "Receba pagamentos directamente na sua loja por M-Pesa e Emola"
+
+#: paysuite-payment-gateway.php:92
+msgid "Secret Key"
+msgstr "Chave Secreta"
+
+#: paysuite-payment-gateway.php:97
+msgid "Test Mode"
+msgstr "Modo de teste"
+
+#: paysuite-payment-gateway.php:82
+msgid "This controls the title which the user sees during checkout"
+msgstr "Isto controla o t;itulo que será exibido durante o checkout"
+
+#: paysuite-payment-gateway.php:80
+msgid "Title"
+msgstr "Título"

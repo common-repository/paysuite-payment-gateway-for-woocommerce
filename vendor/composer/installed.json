@@ -1,0 +1,54 @@
+{
+    "packages": [
+        {
+            "name": "hypertech/paysuite-php-sdk",
+            "version": "1.0.0",
+            "version_normalized": "1.0.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/hypertech-lda/paysuite-php-sdk.git",
+                "reference": "3cbe6a1c01f3526ad07b0e0161a19cf7e4060afc"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/hypertech-lda/paysuite-php-sdk/zipball/3cbe6a1c01f3526ad07b0e0161a19cf7e4060afc",
+                "reference": "3cbe6a1c01f3526ad07b0e0161a19cf7e4060afc",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "ext-json": "*",
+                "php": ">=7.4"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^10"
+            },
+            "time": "2023-10-06T09:29:07+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Hypertech\\Paysuite\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Hypertech",
+                    "homepage": "https://hypertech.co.mz"
+                }
+            ],
+            "description": "Paysuite client API SDK",
+            "support": {
+                "issues": "https://github.com/hypertech-lda/paysuite-php-sdk/issues",
+                "source": "https://github.com/hypertech-lda/paysuite-php-sdk/tree/1.0.0"
+            },
+            "install-path": "../hypertech/paysuite-php-sdk"
+        }
+    ],
+    "dev": false,
+    "dev-package-names": []
+}
